@@ -5,7 +5,7 @@
 "Adapter object must be an instance of %s","Adapter-Objekt muss eine Instanz von %s sein."
 "Adapter type must be a non empty string","Adapter-Art darf keine leere Zeichenfolge sein."
 "Append Complex Data","Datensätze anhängen"
-"Attribute Code","Merkmalkode"
+"Attribute Code","Merkmalcode"
 "Attribute Label","Merkmalsbezeichnung"
 "Attribute does not has options, so filtering is impossible","Merkmal hat keine Optionen, daher ist Filtern nicht möglich."
 "Begin data validation","Starte Datenüberprüfung"
